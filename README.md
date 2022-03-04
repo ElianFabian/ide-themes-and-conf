@@ -10,4 +10,4 @@
 
 <h1>Netbeans</h1>
 
-![netbeans_theme](https://user-images.githubusercontent.com/86477169/156784286-5a817141-805d-49ec-b858-a956155ec4bb.PNG)
+![netbeans_theme](https://user-images.githubusercontent.com/86477169/156785911-d4ad14d5-ac43-46aa-9bee-6c2a86ef2453.PNG)
