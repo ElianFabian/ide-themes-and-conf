@@ -6,8 +6,8 @@
 
 <h1>Intellij</h1>
 
-![intellij_theme](https://user-images.githubusercontent.com/86477169/156783754-5628481f-e605-4d7b-b043-9bd7e885fc5b.PNG)
+![intellij_theme](https://user-images.githubusercontent.com/86477169/156786466-81f68275-b119-457d-8c0a-8ee1cd2f3594.PNG)
 
 <h1>Netbeans</h1>
 
-![netbeans_theme](https://user-images.githubusercontent.com/86477169/156785911-d4ad14d5-ac43-46aa-9bee-6c2a86ef2453.PNG)
+![netbeans_theme](https://user-images.githubusercontent.com/86477169/156786504-7ca3b655-7b60-48e7-a506-45539cd1a945.PNG)
