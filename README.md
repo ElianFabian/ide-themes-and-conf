@@ -9,3 +9,8 @@
 <h1>Netbeans</h1>
 
 ![netbeans_theme](https://user-images.githubusercontent.com/86477169/158344966-9aa65605-74df-4b67-b4a1-859548fd1201.PNG)
+
+
+<h2>Information</h2>
+
+In IntelliJ and Android Studio I use the <a src="https://plugins.jetbrains.com/plugin/16142-nightfall-theme">Night Fall</a> theme to make it look dark.
