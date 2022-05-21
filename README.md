@@ -13,4 +13,4 @@
 
 <h2>Information</h2>
 
-In IntelliJ and Android Studio I use the <a href="https://plugins.jetbrains.com/plugin/16142-nightfall-theme">Night Fall</a> theme to make it look dark.
+In IntelliJ and Android Studio I use the <a href="https://plugins.jetbrains.com/plugin/16142-nightfall-theme">Nightfall</a> theme to make it look dark.
