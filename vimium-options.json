@@ -1,0 +1,84 @@
+{
+  "keyMappings": "# Insert your preferred key mappings here.\n\nunmapAll\n\n\nmap ?? showHelp\n\nmap e scrollUp\nmap d scrollDown\n\nmap U scrollPageUp\nmap J scrollPageDown\nmap 9 scrollToTop\nmap 0 scrollToBottom\n\nmap CC copyCurrentUrl\n\nmap ii focusInput\n\nmap ñ LinkHints.activateMode\nmap Ñ LinkHints.activateModeToOpenInNewForegroundTab\n\nmap o Vomnibar.activate\nmap O Vomnibar.activateInNewTab\n\nmap b Vomnibar.activateBookmarks\nmap B Vomnibar.activateBookmarksInNewTab\n\nmap T Vomnibar.activateTabSelection\n\nmap / enterFindMode\nmap n performFind\nmap N performBackwardsFind\n\nmap > moveTabLeft\nmap < moveTabRight\n\nmap h goForward\nmap H goBack\n\nmap g9 firstTab\nmap g0 lastTab",
+  "linkHintCharacters": "asdfghjkl",
+  "settingsVersion": "2.1.2",
+  "userDefinedLinkHintCss": ":root div > .vimiumHintMarker {\n/* linkhint boxes */\nbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#85FFAA),\n  color-stop(100%,#40F594));\nborder: 1px solid #23E373;\n}\n\n:root div > .vimiumHintMarker span {\n/* linkhint text */\ncolor: black;\nfont-weight: bold;\nfont-size: 12px;\n}\n\n:root div > .vimiumHintMarker > .matchingCharacter {\n}",
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https://www.duolingo.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://keep.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://monkeytype.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://docs.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://drive.google.com/*"
+    },
+    {
+      "passKeys": "p",
+      "pattern": "https?://preview.openprocessing.org/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://wordle.danielfrg.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://aarthificial.itch.io/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://p5js.org/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.toptal.com/developers/keycode"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://scratch.mit.edu/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.typerush.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.typination.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://recursivearts.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://virtualpiano.net/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://remotedesktop.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://bitbucket.org/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://popcorntimeonline.xyz/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.canva.com/*"
+    }
+  ]
+}
